@@ -40,3 +40,30 @@ body{
     padding-bottom: 50px;
     max-width:70%;
 }
+
+.post video{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    max-width:70%;
+}
+
+.hope {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-color: #ff9ce6;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50%;
+    width: 350px;
+}
+
+.hope p{
+    font-weight: bolder;
+    color: whitesmoke;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
